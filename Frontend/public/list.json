@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Rock-Paper-Scissors",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Classic Literature",
+        "title": "To Kill a Mockingbird",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Non-Fiction/History",
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Coming-of-Age Fiction",
+        "title": "The Catcher in the Rye",
+        "price": 199,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Dystopian Fiction",
+        "title": "1984",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Classic American Literature",
+        "title": "The Great Gatsby",
+        "price": 249,
+        "category": "Literature",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Psychological Thriller",
+        "title": "The Silent Patient",
+        "price": 99,
+        "category": "Thriller",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Self-Help/Personal Development",
+        "title": "Atomic Habits",
+        "price": 149,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Autotunes",
+        "title": "Music",
+        "price": 100,
+        "category": "Song",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Sports",
+        "title": "Physical Education",
+        "price": 149,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Comedy Book",
+        "title": "Standup",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/pages-open-book_23-2147690479.jpg?t=st=1725452977~exp=1725456577~hmac=1f7d8ae4cbfdb5a414e31e413cf518552eabdb29ad5cdc19d363cb273c12ada3&w=740"
+    }
+]
